@@ -7,7 +7,7 @@ An interactive, data-driven web application built with **R Shiny** to explore th
 
 ---
 
-## 💡 Why This Project?
+## Why This Project?
 
 The NIRF framework ranks higher education institutions in India based on diverse parameters like Teaching, Learning & Resources (TLR), Research & Professional Practice (RPC), Graduation Outcomes (GO), Outreach & Inclusivity (OI), and Perception (PR).
 
@@ -19,7 +19,7 @@ This dashboard was created to:
 
 ---
 
-## ✨ Features
+## Features
 
 * **Single Year Analysis**: Pick any year between 2017 and 2025 to dive deep into that specific dataset.
   * **Interactive EDA (Exploratory Data Analysis)**: View histograms and summary statistics for every sub-metric (TLR, RPC, GO, OI, PR).
@@ -32,7 +32,7 @@ This dashboard was created to:
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 You can easily run this application on your local machine using R and RStudio.
 
@@ -61,7 +61,7 @@ install.packages(c("shiny", "ggplot2", "dplyr", "rvest"))
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 * **Front-end & Server**: [R Shiny](https://shiny.rstudio.com/) for reactive web layouts and dynamic logic.
 * **Data Processing**: [dplyr](https://dplyr.tidyverse.org/) for rapid data manipulation, cleaning, and summarisation.
@@ -70,6 +70,6 @@ install.packages(c("shiny", "ggplot2", "dplyr", "rvest"))
 
 ---
 
-## 📝 Acknowledgements
+## Acknowledgements
 
 **Data Source**: All datasets were sourced and cleaned from the official National Institutional Ranking Framework platform at [nirfindia.org](https://www.nirfindia.org/).
